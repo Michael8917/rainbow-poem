@@ -3,5 +3,6 @@ red
 blue
 orange
 green
-blue
+brown
 purple
+pink
